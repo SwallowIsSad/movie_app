@@ -26,7 +26,7 @@ class App extends React.Component {
         return (
             <section class="container">
                 {isLoading
-                    ? 'loading'
+                    ? 'loading now'
                     : movies.map(movie => (
                           <Movie
                               key={movie.id}
