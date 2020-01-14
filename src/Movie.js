@@ -11,4 +11,4 @@ function Movie({ id, year, title, summary, poster }) {
 }
 
 export default Movie;
-// commit 
+// commit  하루
